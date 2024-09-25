@@ -1,6 +1,6 @@
 Maandag:
 
-* Jaaroverzicht (wat kun je verwachten, aanpassingen en andere informatie.
+* Jaaroverzicht wat kun je verwachten, aanpassingen en andere informatie.
 
 Opdracht team squadpage
 * Leervragen bedenken (schrijven)
@@ -139,3 +139,22 @@ Donderdag
 
 Vrijdag:
 * Laatste aanpassing profilecard
+
+Maandag:
+* Semester 3 overzicht
+
+Taken:
+* Projectboard aangemaakt met issues (must have & labels)
+
+Wat heb ik geleerd?
+Ik heb geleerd hoe ik mijn project live zet in Vercel.
+
+Ik kreeg een error omdat het package.json niet zichtbaar was dit heb ik gedaan door eerst init npm te gebruiken
+
+En daarna heb ik framework optie svelte gebruikt en de naam aangepast naar profilecard omdat het package.json bestand daar in zat
+
+Dinsdag:
+* Gesprek met de opdrachtgever
+* Debriefing geschreven
+* Taken verdeeld
+* Issues in het andere projectboard toegevoegd
