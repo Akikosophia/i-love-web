@@ -2,7 +2,6 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/css");
 
-
     eleventyConfig.addFilter("uppercase", function (value) {
         return value.toUpperCase();
       });
